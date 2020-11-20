@@ -29,4 +29,4 @@ print("请学号为" +str(num),"同学回答老师问题！")
    print("hello_world")
    ```
 
-    代码段      `int apple = 1; 
+    代码段      `int apple = 1`
